@@ -1,5 +1,6 @@
-# PLN-Projeto-Pratico
-* Desenvolvimento de um projeto prático da disciplina "Processamento de Linguagem Natural" com uso de uma API+LLM! 💻
+# Python + OPENAI + APISPOTIFY : Processamento de linguagem natural
+* Aplicando conceitos de engenharia de prompt utilizando **LANGCHAIN** para montagem de uma interface sobre o artista do spotify favorito do usuário. 💻
+* Linguagem de programação : Python
 * API: Spotify 🎧
 * LLM: OpenAI 🤖
 
