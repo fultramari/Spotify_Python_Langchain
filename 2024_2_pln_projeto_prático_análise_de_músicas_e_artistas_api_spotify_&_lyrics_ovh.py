@@ -12,15 +12,6 @@ No tópico a seguir, iremos realizar as **configurações do ambiente**, instala
 ##### **Instalação das bibliotecas e APIs que serão utilizadas**
 """
 
-!pip install spotipy
-!pip install openai
-!pip install langchain -q U
-!pip install langchain_community
-!pip install fpdf
-!pip install streamlit
-!npm install localtunnel
-!pip install -U langchain-openai
-
 """##### **Importando as bibliotecas que serão utilizadas**"""
 
 from spotipy.oauth2 import SpotifyClientCredentials
