@@ -1,0 +1,6 @@
+spotipy
+pandas
+streamlit
+altair
+requests
+langchain
