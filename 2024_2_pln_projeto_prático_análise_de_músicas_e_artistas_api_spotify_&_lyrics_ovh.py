@@ -877,15 +877,4 @@ with open('dados_musica.pkl', 'wb') as f:
 # if __name__ == "__main__":
 #     main()
 
-"""# **Parte 7 - Resultado final!**
----
 
-##### **Agora, basta executar o seguinte bloco de código a seguir para ter acesso à página montada do Streamlit contendo todas as informações geradas pela IA e com a utilização dos métodos práticos de PLN! Divirta-se!**
-"""
-
-!npm install localtunnel
-
-"""**- Acesse o link abaixo e insira o IP fornecido para acessar a interface**"""
-
-!streamlit run app.py &>/content/logs.txt &
-!npx localtunnel --port 8501 & curl ipv4.icanhazip.com
